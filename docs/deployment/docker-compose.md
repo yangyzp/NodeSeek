@@ -7,7 +7,7 @@
 首先，将整个项目克隆到你的服务器上：
 
 ```bash
-git clone https://github.com/yowiv/NodeSeek-Signin.git
+git clone https://github.com/yangyzp/NodeSeek.git
 cd NodeSeek-Signin
 ```
 
