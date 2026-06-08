@@ -33,6 +33,8 @@ cp .env.example .env
 
 ```bash
 docker-compose up -d
+#新版docker用下面
+docker compose up -d
 ```
 
 **第四步：查看日志**
@@ -41,6 +43,8 @@ docker-compose up -d
 
 ```bash
 docker-compose logs -f
+#新版docker用下面
+docker compose logs -f
 ```
 
 **第五步：停止服务**
@@ -49,4 +53,6 @@ docker-compose logs -f
 
 ```bash
 docker-compose down
+#新版docker用下面
+docker compose down
 ```
